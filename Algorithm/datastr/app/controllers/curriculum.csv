@@ -1,0 +1,58 @@
+﻿key,prefix,name
+1,root,root
+2,CSE1001,Fund of Software Dev 1
+3,CSE1101,Comp Discip & Careers 1
+4,CSE1400,Applied Discrete Mathematics
+5,FYE1000,University Experience
+6,MTH1001,Calculus 1
+7,CSE1002,Fund of Software Dev 2
+8,CSE2120,Comp Org Machine Prog
+9,CSE3120,Comp Arch and Assembly
+10,CSE2050,Program in a Second Lang
+11,CSE3030,Legal Ethical and Social
+12,CSE2010,Algorithms & Data Struct
+13,CSE3411,Software Testing 1
+14,CSE4415,Software Testing 2
+15,CSE2410,Intro to Software Eng
+16,CSE4001,Opr Systems Concepts
+17,CSE2400,Applied Statistics
+18,CSE4020,Database Systems
+19,CSE4051,Advanced Java Concepts
+20,CSE4081,Intro Anlys of Algorithms
+21,CSE4083,Formal Lang/Auto Th
+22,CSE4621,Software Metrics & Modeling
+23,CSE4410,SW Project Management
+24,CSE3612,Human-Computer Interac.
+25,CSE4610,Requirements Engineering
+26,CSE4611,SW Maintenance & Evolut.
+27,CSE4251,Compiler Theory
+28,CSE4520,Special Topics in SE
+29,CSE4280,Computer Graphics Algorithms
+30,CSE4101,Computer Science Proj 1
+31,CSE4201,Software Devel Proj 1
+32,CSE4102,Computer Science Proj 2
+33,CSE4202,Software Devel Proj 2
+34,CSE4232,Network Programming
+35,CSE3100,Junior Project
+36,CSE3421,Software Design Methods
+37,CSE4301,Intro Art Intelligence
+38,CSE3231,Computer Networks
+39,CSE4683,Formal Specification
+40,CSE4272,Computer and Information Security
+41,CSE4250,Prog Language Concepts
+42,COM1101,Composition and Rhetoric
+43,COM1102,Writing About Literature
+44,COM2012,Research Sources and Syst
+45,COM2223,Sci/Tech Comm
+46,HUM2510,Logic
+47,HUM2051,Civ 1: Ancient-Medieval
+48,MTH1002,Calculus 2
+49,PHY1001,Physics 1
+50,PHY2002,Physics 2
+51,PSY1411,Intro to Psychology
+52,AHF3101,Intro to Human Factors
+53,CHM1101,General Chemistry 1
+54,CHM1102,General Chemistry 2
+55,MTH3102,Intro to Linear Algebra
+56,BIO1010,Biological Discovery 1
+57,BIO1020,Biological Discovery 2
