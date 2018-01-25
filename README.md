@@ -5,6 +5,7 @@ This project is worked on Ruby on Rails and all the frontend UI style is done us
 - Topological Sort Graph
 - Binary Tree
 - Priority Queues
+- Adjacency Matrix
 
 The algorithm was supported using arraylist and hashmap.The hashmap was used to find the class name and their prefix and the data stored in the hashmap is dynamic as it gets reloaded from CSV files on every command to start the rails project.
 
